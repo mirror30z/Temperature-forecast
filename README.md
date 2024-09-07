@@ -38,7 +38,8 @@ pip install numpy pandas matplotlib torch scikit-learn
 
 ## 数据集
 
-![数据](E:\teach\tang_system_class\04pytorch\images\气温预测\数据.png)
+![数据](https://github.com/user-attachments/assets/978a6925-6b01-4181-8a2b-665a8c81ee74)
+
 
 数据集 (`temps.csv`) 包含每日的天气信息，包含以下列：
 
@@ -71,4 +72,4 @@ python main.py
 
 真实值和预测值结果展示
 
-![prediction_results](E:\teach\tang_system_class\04pytorch\Temperature forecast\prediction_results.png)
+![预测结果](https://github.com/user-attachments/assets/94aeeeed-be33-408f-95b6-968ad79e7c3b)
